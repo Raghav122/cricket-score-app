@@ -1,0 +1,16 @@
+.divc{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,112,1) 15%, rgba(0,212,255,1) 100%);
+}
+
+.h1c{
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: yellow;
+}
+
+.bodyc{
+    width: 80%;
+}
